@@ -38,9 +38,26 @@ section{
 .heading{
     position: absolute;
     top: 50%;
-    font-size: 650%;
+    font-size: 200%;
     text-shadow: 0 0 15px #000;
     width: 100%;
     text-transform: uppercase;
     letter-spacing: 8px;
+}
+.nav-menu{
+    overflow: hidden;
+    background-color: #111B30;
+    opacity: .6;
+}
+.nav-menu a{
+    float: right;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+.nav-menu a:hover{
+    background-color: #212221;
+    color: #909659;
 }
