@@ -11,15 +11,15 @@ html, body{
 }
 
 .img1{
-    background: url(img\pexels-hasan-albari-1229861.jpg);
+    background: url(https://images.pexels.com/photos/1229861/pexels-photo-1229861.jpeg?cs=srgb&dl=pexels-hasan-albari-1229861.jpg&fm=jpg&w=6000&h=4000);
     min-height: 100%;
 }
 .img2{
-    background: url(img\pexels-pixabay-531880.jpg);
+    background: url(https://images.pexels.com/photos/531880/pexels-photo-531880.jpeg?cs=srgb&dl=pexels-pixabay-531880.jpg&fm=jpg&w=1920&h=1200);
     min-height: 60%;
 }
 .img3{
-    background: url(img\pexels-s-migaj-747964.jpg);
+    background: url(https://images.pexels.com/photos/747964/pexels-photo-747964.jpeg?cs=srgb&dl=pexels-s-migaj-747964.jpg&fm=jpg&w=4000&h=2525);
     min-height: 100%;
 }
 .img1, .img2, .img3{
